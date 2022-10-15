@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Portfólio
 
-Rápida descrição do objetivo de fazer esse projeto
+Este é o meu portfólio onde documento a minha experiência como desenvolvedor 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Portfólio**
+| :label: Tecnologias | python, Django, html, css
+| :rocket: URL         | http://pedro.pythonanywhere.com/
+| :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/40746318/195959650-49d5ee03-a34b-4858-a626-08193eec4b41.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Aqui estão reunidos os meus projetos que mostram a minha trilha de aprendizado como profissional de tecnologia
